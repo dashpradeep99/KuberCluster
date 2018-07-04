@@ -6,6 +6,6 @@ metadata:
 		"ibmtrainig": lamp
 type: Opaque
 data:
-  rootpw: dmFyTXlSb290UGFzcw==
-	user: dmFyTXlEQlVzZXI=
-	Password: dmFyTXlEQlBhc3M=
+    rootpw: dmFyTXlSb290UGFzcw==
+    user: dmFyTXlEQlVzZXI=
+    Password: dmFyTXlEQlBhc3M=
